@@ -1,6 +1,6 @@
 deployment:
   prod:
-    branch:master
+    branch: master
     heroku:
       appname: aw-deliver-it-well
   machine:

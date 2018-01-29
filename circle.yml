@@ -1,3 +1,8 @@
-machine:
-  node:
-    version: 8.1.4
+deployment:
+  prod:
+    branch:master
+    heroku:
+      appname: aw-deliver-it-well
+  machine:
+    node:
+      version: 8.1.4
